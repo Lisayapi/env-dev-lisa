@@ -30,3 +30,9 @@
 ## Lire et chercher
 
 …
+
+## Branches
+| Commande | Ce qu'elle fait                    | Exemple                   |
+| -------- | ---------------------------------- | ------------------------- |
+| ` git branch `| Liste les branches. Une étoile  *  montre celle où vous êtes | `git branch`          |
+| `git switch main `     |  Va sur la branche  main   | `git switch main`          |
