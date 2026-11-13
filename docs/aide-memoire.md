@@ -30,3 +30,10 @@
 ## Lire et chercher
 
 …
+
+## Branches 
+
+| Commande | Ce qu'elle fait                    | Exemple                   |
+| -------- | ---------------------------------- | ------------------------- |
+| `git branch`     | Copie un fichier                   | `cp a.txt b.txt`          |
+| 'git'  | Copie ub dossier                   | 'cp -r projet projet2'    |
