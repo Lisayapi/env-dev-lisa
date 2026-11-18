@@ -1,5 +1,5 @@
 #!/bin/bash 
-echo "=== Vérification du poste de Rahima COULIBALY ===" 
+echo "=== Vérification du poste de Lisa YAPI ===" 
 echo 
 echo "Ubuntu :" 
 lsb_release -d 
