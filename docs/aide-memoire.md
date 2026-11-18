@@ -36,3 +36,7 @@
 | -------- | ---------------------------------- | ------------------------- |
 | ` git branch `| Liste les branches. Une étoile  *  montre celle où vous êtes | `git branch`          |
 | `git switch main `     |  Va sur la branche  main   | `git switch main`          |
+
+## Astuce de Rahima
+ 
+`git log --oneline --graph` dessine l'historique avec les branches. 
