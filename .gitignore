@@ -3,3 +3,5 @@
  
 # Fichiers créés par Windows quand on copie un fichier téléchargé dans Ubuntu 
 *:Zone.Identifier 
+# Copier ce fichier sous le nom .env, puis écrire la vraie clé après le = 
+CLE_API_METEO=
